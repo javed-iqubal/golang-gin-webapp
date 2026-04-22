@@ -1,4 +1,4 @@
-module github.com/javed-iqubal/helloworld
+module github.com/javed-iqubal/ginwebapp
 
 go 1.26.1
 
